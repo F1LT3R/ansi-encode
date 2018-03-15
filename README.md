@@ -2,6 +2,9 @@
 
 > 🔢  Convert ANSI escape sequences to regular strings.
 
+[![Build Status](https://travis-ci.org/F1LT3R/ansi-encode.svg?branch=master)](https://travis-ci.org/F1LT3R/ansi-encode)
+
+
 ## About
 
 This simple Node module takes a JavaScript string containing ANSI escape sequences and converts them into regular JavaScript strings. It is a bit like using `escape(string)`, where `escape()` turns individual characters into their respective codes; wheres`ansiEncode()` converts ANSI escape sequences back into plain strings.
