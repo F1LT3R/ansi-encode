@@ -4,7 +4,7 @@
     "description": "Convert ANSI escape sequences to regular strings.",
     "main": "index.js",
     "scripts": {
-        "test": "xo && nyc  --reporter=html --reporter=lcov ava",
+        "test": "xo && nyc  --reporter=html --reporter=lcov ava"
     },
     "repository": {
         "type": "git",
