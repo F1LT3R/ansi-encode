@@ -45,6 +45,7 @@
         "failFast": true
     },
     "dependencies": {
+        "coveralls": "^3.0.0",
         "he": "^1.1.1"
     }
 }
