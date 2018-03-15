@@ -3,6 +3,9 @@
 > 🔢  Convert ANSI escape sequences to regular strings.
 
 [![Build Status](https://travis-ci.org/F1LT3R/ansi-encode.svg?branch=master)](https://travis-ci.org/F1LT3R/ansi-encode)
+[![Coverage Status](https://coveralls.io/repos/github/F1LT3R/ansi-encode/badge.svg?branch=master)](https://coveralls.io/github/F1LT3R/ansi-encode?branch=master)
+[![Npm Version](https://img.shields.io/npm/v/ansi-encode.svg)](https://www.npmjs.com/package/ansi-encode)
+[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
 
 ## About
