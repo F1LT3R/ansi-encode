@@ -1,0 +1,48 @@
+{
+    "name": "ansi-to-string",
+    "version": "1.0.0",
+    "description": "Convert ANSI escape sequences to strings.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/f1lt3r/ansi-to-string.git"
+    },
+    "keywords": [
+        "ansi",
+        "escape",
+        "sequence",
+        "string",
+        "unicode",
+        "terminal",
+        "color"
+    ],
+    "author": "F1LT3R",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/f1lt3r/ansi-to-string/issues"
+    },
+    "homepage": "https://github.com/f1lt3r/ansi-to-string#readme",
+    "devDependencies": {
+        "ava": "^0.25.0",
+        "chalk": "^2.3.2",
+        "xo": "^0.20.3"
+    },
+    "xo": {
+        "esnext": true,
+        "semicolon": false,
+        "rules": {
+            "no-console": 1,
+            "space-before-function-paren": 0
+        }
+    },
+    "ava": {
+        "concurrency": 8,
+        "failFast": true
+    },
+    "dependencies": {
+        "he": "^1.1.1"
+    }
+}
