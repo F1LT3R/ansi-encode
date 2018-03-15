@@ -1,6 +1,6 @@
 {
     "name": "ansi-encode",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Convert ANSI escape sequences to regular strings.",
     "main": "index.js",
     "scripts": {
