@@ -2,7 +2,7 @@ const he = require('he')
 
 module.exports = str => {
 	if (typeof str !== 'string') {
-		throw new TypeError('ANSI-to-String: You must pass a string!')
+		throw new TypeError('ANSI Encode: You must pass a string!')
 	}
 
 	return str.split('').map(char => {

@@ -1,7 +1,7 @@
 {
-    "name": "ansi-to-string",
+    "name": "ansi-encode",
     "version": "1.0.0",
-    "description": "Convert ANSI escape sequences to strings.",
+    "description": "Convert ANSI escape sequences to regular strings.",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
